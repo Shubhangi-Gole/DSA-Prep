@@ -1,8 +1,9 @@
 # Arrays Problems
 
 ## Easy
+- Add_two_numbers
+- Best Time To Buy Sell Stock
 - Two Sum
-- Best Time to Buy and Sell Stock
 
 ## Medium
 - 3Sum
