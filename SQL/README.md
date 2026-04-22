@@ -11,6 +11,5 @@ This folder contains SQL queries from LeetCode SQL 50 and other interview questi
 - Subqueries
 
 ## Progress
-
-✔ Query 1  
-✔ Query 2  
+1.Recyclable and Low Fat Products
+2.Find Customer Referee
