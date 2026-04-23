@@ -7,8 +7,13 @@ This repository contains my daily practice of Data Structures and Algorithms.
 
 ##  Progress Tracker
 
-✔ Day 1 - Two Sum  
-✔ Day 2 - Best Time to Buy and Sell Stock  
+- Day 1 - Two Sum  
+- Day 2 - Best Time to Buy and Sell Stock  
+- Day 3 - Recyclable And Low Fat Products (SQL)
+- Day 4 - Find Customer Referee (SQL)
+- Day 5 - Longest Substring Without Repeating Characters  
+- Day 5 - Big Countries (SQL)
+
 
 ---
 
