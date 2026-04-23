@@ -1,7 +1,7 @@
 # DSA Preparation 
 
 Hi, I am preparing for Software Developer roles (Python/Django).
-This repository contains my daily practice of Data Structures and Algorithms.
+This repository contains my daily practice of Data Structures and Algorithms And SQL Queries.
 
 ---
 
