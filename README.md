@@ -13,6 +13,9 @@ This repository contains my daily practice of Data Structures and Algorithms And
 - Day 4 - Find Customer Referee (SQL)
 - Day 5 - Longest Substring Without Repeating Characters  
 - Day 5 - Big Countries (SQL)
+- Day 6 - Longest Substring Without Repeating Characters  
+- Day 6 - Article Views I (SQL)
+
 
 
 ---
