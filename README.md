@@ -15,6 +15,9 @@ This repository contains my daily practice of Data Structures and Algorithms And
 - Day 5 - Big Countries (SQL)
 - Day 6 - Longest Substring Without Repeating Characters  
 - Day 6 - Article Views I (SQL)
+- Day 7 - Longest Palindromic Substring  
+- Day 7 - Invalid Tweets (SQL)
+
 
 
 
