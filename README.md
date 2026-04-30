@@ -17,6 +17,9 @@ This repository contains my daily practice of Data Structures and Algorithms And
 - Day 6 - Article Views I (SQL)
 - Day 7 - Longest Palindromic Substring  
 - Day 7 - Invalid Tweets (SQL)
+- Day 8 - Reverse Integer  
+- Day 8 - Replace Employee ID With The Unique Identifier (SQL)
+
 
 
 
