@@ -1,0 +1,10 @@
+-- Problem: Replace Employee ID With The Unique Identifier
+-- Link: https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier/
+-- Difficulty: Easy
+
+-- Approach:
+-- Use LEFT JOIN to map employee IDs with unique IDs
+
+select EmployeeUNI.unique_id ,Employees.name 
+from EmployeeUNI  right join Employees  
+on EmployeeUNI.id = Employees.id
