@@ -1,0 +1,28 @@
+class Solution:
+    def myAtoi(self, s: str) -> int:
+        n =len(s)
+        MAX, MIN = 2**31 - 1,-1 * (2**31)
+        index = 0
+        result = 0
+        sign = 1
+
+        while index<n and s[index] == ' ':
+            index+=1
+
+        if index<n and s[index] == '-':
+            sign = -1
+            index+=1
+        elif index<n  and s[index] == '+':
+            sign = 1
+            index+=1
+
+        while index<n and s[index].isdigit():
+            digit = int(s[index])
+            result = result * 10 + digit
+            index+=1
+
+            if (result*sign)>=MAX or (result*sign)<MIN:
+                return MAX if sign==1 else MIN
+        return(result*sign)
+                                  
+        
