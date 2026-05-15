@@ -21,6 +21,8 @@ This repository contains my daily practice of Data Structures and Algorithms And
 - Day 8 - Replace Employee ID With The Unique Identifier (SQL)
 - Day 9 - String to Integer (atoi) 
 - Day 9 - Product Sales Analysis I(SQL)
+- Day 10 - Palindrome Number
+- Day 10 - Customer Who Visited but Did Not Make Any Transactions(SQL)
 
 
 
