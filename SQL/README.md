@@ -17,4 +17,6 @@ This folder contains SQL queries from LeetCode SQL 50 and other interview questi
 4.Article Views I
 5.Invalid Tweets
 6.Product sales analysis_I
+7.Customer Who Visited but Did Not Make Any Transactions
+8.Rising Temperature
 
