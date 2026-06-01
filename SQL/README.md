@@ -19,4 +19,5 @@ This folder contains SQL queries from LeetCode SQL 50 and other interview questi
 6.Product sales analysis_I
 7.Customer Who Visited but Did Not Make Any Transactions
 8.Rising Temperature
+9.Average Time of Process per Machine
 
