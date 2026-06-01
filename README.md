@@ -25,6 +25,8 @@ This repository contains my daily practice of Data Structures and Algorithms And
 - Day 10 - Customer Who Visited but Did Not Make Any Transactions(SQL)
 - Day 11 - Container With Most Water
 - Day 11 - rising_temperature (SQL)
+- Day 12 - Roman to Integer
+- Day 12 - Average Time of Process per Machine(SQL)
 
 
 
