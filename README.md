@@ -27,6 +27,9 @@ This repository contains my daily practice of Data Structures and Algorithms And
 - Day 11 - rising_temperature (SQL)
 - Day 12 - Roman to Integer
 - Day 12 - Average Time of Process per Machine(SQL)
+- Day 13 - Longest Common Prefix
+- Day 13 - Employee Bonus(SQL)
+- Day 13 - Students and Examinations(SQL)
 
 
 
