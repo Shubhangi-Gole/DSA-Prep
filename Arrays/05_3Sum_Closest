@@ -1,0 +1,27 @@
+class Solution:
+    def threeSumClosest(self, nums: List[int], target: int) -> int:
+        cs = float('inf')
+        nums.sort()
+        for i in range(len(nums)-2):
+            left_point = i +1
+            right_point = len(nums) -1
+
+            while left_point < right_point:
+                total = nums[i] + nums[left_point] + nums[right_point]
+
+                if total == target:
+                    return total
+
+                if abs(total - target)< abs(cs - target):
+                    cs = total
+                if total < target:
+                    left_point +=1
+                else:
+                    right_point -=1            
+                    
+
+
+        return cs                
+
+
+        
