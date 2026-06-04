@@ -30,6 +30,10 @@ This repository contains my daily practice of Data Structures and Algorithms And
 - Day 13 - Longest Common Prefix
 - Day 13 - Employee Bonus(SQL)
 - Day 13 - Students and Examinations(SQL)
+- Day 14 - 3Sum
+- Day 14 - 3Sum Closest
+- Day 14 - Confirmation Rate (SQL)
+- Day 14 - Managers with at Least 5 Direct Reports (SQL)
 
 
 
