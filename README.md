@@ -38,6 +38,10 @@ This repository contains my daily practice of Data Structures and Algorithms And
 - Day 15 - 3Sum Closest
 - Day 15 - Average Selling Price (SQL)
 - Day 15 - Not Boring Movies (SQL)
+- Day 16 - Merge Two Sorted Lists
+- Day 16 - Valid Parentheses
+- Day 16 - Percentage of Users Attended a Contest (SQL)
+- Day 16 - Project Employees I (SQL)
 
 
 
