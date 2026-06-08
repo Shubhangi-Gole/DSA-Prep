@@ -42,6 +42,10 @@ This repository contains my daily practice of Data Structures and Algorithms And
 - Day 16 - Valid Parentheses
 - Day 16 - Percentage of Users Attended a Contest (SQL)
 - Day 16 - Project Employees I (SQL)
+- Day 17 - Swap Nodes in Pairs
+- Day 17 - Remove Duplicates from Sorted Array
+- Day 17 - Percentage of Users Attended a Contest(SQL)
+- Day 17 - Queries Quality and Percentage (SQL)
 
 
 
