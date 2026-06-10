@@ -46,6 +46,10 @@ This repository contains my daily practice of Data Structures and Algorithms And
 - Day 17 - Remove Duplicates from Sorted Array
 - Day 17 - Percentage of Users Attended a Contest(SQL)
 - Day 17 - Queries Quality and Percentage (SQL)
+- Day 18 - Remove Element
+- Day 18 - Find the Index of the First Occurrence in a String
+- Day 18 - Monthly Transactions I (SQL)
+- Day 18 - 
 
 
 
