@@ -49,7 +49,7 @@ This repository contains my daily practice of Data Structures and Algorithms And
 - Day 18 - Remove Element
 - Day 18 - Find the Index of the First Occurrence in a String
 - Day 18 - Monthly Transactions I (SQL)
-- Day 18 - 
+- Day 18 - Immediate Food Delivery II (SQL)
 
 
 
