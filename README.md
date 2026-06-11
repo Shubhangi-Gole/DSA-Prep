@@ -50,7 +50,10 @@ This repository contains my daily practice of Data Structures and Algorithms And
 - Day 18 - Find the Index of the First Occurrence in a String
 - Day 18 - Monthly Transactions I (SQL)
 - Day 18 - Immediate Food Delivery II (SQL)
-
+- Day 19 - Search Insert Position
+- Day 19 - Next Permutation
+- Day 19 - Game Play Analysis IV (SQL)
+- Day 19 - Immediate Food Delivery II (SQL)
 
 
 
