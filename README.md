@@ -54,6 +54,10 @@ This repository contains my daily practice of Data Structures and Algorithms And
 - Day 19 - Next Permutation
 - Day 19 - Game Play Analysis IV (SQL)
 - Day 19 - Immediate Food Delivery II (SQL)
+- Day 20 - Pow(x, n)
+- Day 20 - Length of Last Word
+- Day 20 - User Activity for the Past 30 Days I (SQL)
+- Day 20 - Number of Unique Subjects Taught by Each Teacher (SQL)
 
 
 
