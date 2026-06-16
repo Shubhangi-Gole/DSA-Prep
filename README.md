@@ -59,7 +59,7 @@ This repository contains my daily practice of Data Structures and Algorithms And
 - Day 20 - User Activity for the Past 30 Days I (SQL)
 - Day 20 - Number of Unique Subjects Taught by Each Teacher (SQL)
 - Day 21 - add_binary
-- Day 21 - 11_plus_one
+- Day 21 - Plus_one
 - Day 21 - Product Sales Analysis III (SQL)
 - Day 21 - Classes With at Least 5 Students (SQL)
 
