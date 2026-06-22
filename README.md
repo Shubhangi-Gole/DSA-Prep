@@ -66,6 +66,9 @@ This repository contains my daily practice of Data Structures and Algorithms And
 - Day 22 - climbing stairs
 - Day 22 - Biggest Single Number (SQL)
 - Day 22 - Find Followers Count (SQL)
+- Day 23 - Binary Tree Inorder Traversal
+- Day 23 - Merge Sorted Array
+- Day 23 - Customers Who Bought All Products (SQL)
 
 
 
