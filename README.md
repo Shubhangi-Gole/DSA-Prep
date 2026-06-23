@@ -69,6 +69,9 @@ This repository contains my daily practice of Data Structures and Algorithms And
 - Day 23 - Binary Tree Inorder Traversal
 - Day 23 - Merge Sorted Array
 - Day 23 - Customers Who Bought All Products (SQL)
+- Day 24 - Same Tree
+- Day 24 - Symmetric Tree
+- Day 24 - The Number of Employees Which Report to Each Employee (SQL)
 
 
 
