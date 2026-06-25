@@ -72,6 +72,8 @@ This repository contains my daily practice of Data Structures and Algorithms And
 - Day 24 - Same Tree
 - Day 24 - Symmetric Tree
 - Day 24 - The Number of Employees Which Report to Each Employee (SQL)
+- Day 25 - Binary Tree Level Order Traversal
+- Day 25 - Investments in 2016
 
 
 
