@@ -78,6 +78,8 @@ This repository contains my daily practice of Data Structures and Algorithms And
 - Day 26 - Friend Requests II: Who Has the Most Friends (SQL)
 - Day 27 - Count and Say
 - Day 27 - Fix Names in a Table (SQL)
+- Day 28 - Combination Sum
+- Day 28 - Patients With a Condition (SQL)
 
 
 
