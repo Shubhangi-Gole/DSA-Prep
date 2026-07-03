@@ -83,7 +83,7 @@ This repository contains my daily practice of Data Structures and Algorithms And
 - Day 29 - Combination Sum II
 - Day 29 - Delete Duplicate Emails (SQL)
 - Day 30 - Multiply Strings
-- Day 30 - Group Sold Products By The Date
+- Day 30 - Group Sold Products By The Date (SQL)
 
 
 
