@@ -88,6 +88,8 @@ This repository contains my daily practice of Data Structures and Algorithms And
 - Day 31 - List the Products Ordered in a Period (SQL)
 - Day 32 - Generate Parentheses
 - Day 32 - Find Users With Valid E-Mails (SQL)
+- Day 33 - Integer to Roman
+- Day 33 - Replace Employee ID With The Unique Identifier (SQL)
 
 
 
