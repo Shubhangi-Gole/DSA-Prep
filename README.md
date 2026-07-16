@@ -90,6 +90,8 @@ This repository contains my daily practice of Data Structures and Algorithms And
 - Day 32 - Find Users With Valid E-Mails (SQL)
 - Day 33 - Integer to Roman
 - Day 33 - Replace Employee ID With The Unique Identifier (SQL)
+- Day 34 - Simplify Path
+- Day 34 - Primary Department for Each Employee (SQL)
 
 
 
