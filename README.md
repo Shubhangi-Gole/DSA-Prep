@@ -92,6 +92,8 @@ This repository contains my daily practice of Data Structures and Algorithms And
 - Day 33 - Replace Employee ID With The Unique Identifier (SQL)
 - Day 34 - Simplify Path
 - Day 34 - Primary Department for Each Employee (SQL)
+- Day 35 - Binary Tree Level Order Traversal II
+- Day 35 - Triangle Judgement (SQL)
 
 
 
