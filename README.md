@@ -94,6 +94,8 @@ This repository contains my daily practice of Data Structures and Algorithms And
 - Day 34 - Primary Department for Each Employee (SQL)
 - Day 35 - Binary Tree Level Order Traversal II
 - Day 35 - Triangle Judgement (SQL)
+- Day 36 - Remove Nth Node From End of List
+- Day 36 - Consecutive Numbers (SQL)
 
 
 
