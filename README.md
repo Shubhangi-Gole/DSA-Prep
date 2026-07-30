@@ -96,7 +96,8 @@ This repository contains my daily practice of Data Structures and Algorithms And
 - Day 35 - Triangle Judgement (SQL)
 - Day 36 - Remove Nth Node From End of List
 - Day 36 - Consecutive Numbers (SQL)
-
+- Day 37 - Divide Two Integers
+- Day 37 - Product Price at a Given Date (SQL)
 
 
 
