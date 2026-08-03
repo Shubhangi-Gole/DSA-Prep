@@ -98,6 +98,8 @@ This repository contains my daily practice of Data Structures and Algorithms And
 - Day 36 - Consecutive Numbers (SQL)
 - Day 37 - Divide Two Integers
 - Day 37 - Product Price at a Given Date (SQL)
+- Day 38 - Find First and Last Position of Element in Sorted Array
+- Day 38 - Count Salary Categories (SQL)
 
 
 
