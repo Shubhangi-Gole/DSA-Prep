@@ -100,6 +100,8 @@ This repository contains my daily practice of Data Structures and Algorithms And
 - Day 37 - Product Price at a Given Date (SQL)
 - Day 38 - Find First and Last Position of Element in Sorted Array
 - Day 38 - Count Salary Categories (SQL)
+- Day 39 - Permutations
+- Day 39 - Employees Whose Manager Left the Company (SQL)
 
 
 
