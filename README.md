@@ -102,6 +102,8 @@ This repository contains my daily practice of Data Structures and Algorithms And
 - Day 38 - Count Salary Categories (SQL)
 - Day 39 - Permutations
 - Day 39 - Employees Whose Manager Left the Company (SQL)
+- Day 40 - Permutations II
+- Day 40 - Exchange Seats (SQL)
 
 
 
