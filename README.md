@@ -104,6 +104,8 @@ This repository contains my daily practice of Data Structures and Algorithms And
 - Day 39 - Employees Whose Manager Left the Company (SQL)
 - Day 40 - Permutations II
 - Day 40 - Exchange Seats (SQL)
+- Day 41 - Rotate Image
+- Day 41 - Movie Rating (SQL)
 
 
 
