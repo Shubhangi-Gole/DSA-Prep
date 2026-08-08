@@ -106,6 +106,8 @@ This repository contains my daily practice of Data Structures and Algorithms And
 - Day 40 - Exchange Seats (SQL)
 - Day 41 - Rotate Image
 - Day 41 - Movie Rating (SQL)
+- Day 42 - Group Anagrams
+- Day 42 - Restaurant Growth (SQL)
 
 
 
