@@ -108,6 +108,8 @@ This repository contains my daily practice of Data Structures and Algorithms And
 - Day 41 - Movie Rating (SQL)
 - Day 42 - Group Anagrams
 - Day 42 - Restaurant Growth (SQL)
+- Day 43 - Maximum Subarray
+- Day 43 - Second Highest Salary (SQL)
 
 
 
