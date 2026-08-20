@@ -110,6 +110,8 @@ This repository contains my daily practice of Data Structures and Algorithms And
 - Day 42 - Restaurant Growth (SQL)
 - Day 43 - Maximum Subarray
 - Day 43 - Second Highest Salary (SQL)
+- Day 44 - Spiral Matrix
+- Day 44 - Department Top Three Salaries
 
 
 
